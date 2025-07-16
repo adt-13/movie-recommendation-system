@@ -1,0 +1,9 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore datasets
+ml-latest-small/
+
+# Ignore environment folders (if you have one)
+venv/
+env/
