@@ -11,3 +11,6 @@ This is a movie recommendation system built with Python, Streamlit, and scikit-l
 1. Clone the repository.
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Run the Streamlit app: `streamlit run app.py`
+
+## Dataset link
+MovieLens Latest Datasets: https://grouplens.org/datasets/movielens/latest/
