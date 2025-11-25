@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-This is a movie recommendation system built with Python, Streamlit, and scikit-learn for my AI course project.
+This is a movie recommendation system built with Python, Streamlit and scikit-learn for my AI course project.
 
 ## Features
 - Recommends similar movies based on genre.
